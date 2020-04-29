@@ -1,0 +1,57 @@
+.mycontainer {
+    border: 12px;
+    background-color: blueviolet;
+    border-radius: 12px;
+}
+
+.mycol {
+    background-color: chartreuse;
+    border: 4px solid black;
+    border-radius: 2px;
+}
+
+.myr{
+    border: 4px solid rgb(100, 200, 250)
+
+}
+
+#topheader{
+    text-align: right;
+    border-bottom: 1px solid silver;
+    background-color: #EAF0F1
+}
+
+#topheader a {
+    color: ;#2c3e50;
+    font-weight:600;
+    font-size: 0.89rem
+}
+
+.container-fluid {
+    padding: 0px;
+}
+
+#buttom  .container-fluid{
+    background-color: rgb(13, 104, 179);
+}
+
+/* footer */
+
+.top-footer{
+    color: rgb(236, 232, 232);
+    position: absolute;
+    bottom: 0px;
+    padding-bottom: 20px;
+    margin-bottom: 30px;
+   
+}
+
+.bottom-footer{
+    color: snow;
+    background-color:black;
+    text-align: center;
+    width: 100%;
+    position: absolute;
+    bottom: 0px;
+}
+
